@@ -12,7 +12,7 @@ const StateTutorial = () => {
 //   console.log(user)
 // };
   
-  let inputValue="Uttara";
+  
 
    let onChange = (event) => {
     inputValue = event.target.value;
